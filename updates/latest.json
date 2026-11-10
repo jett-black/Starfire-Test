@@ -1,6 +1,6 @@
 {
-  "version": "1.8.6",
-  "file": "Starfire-V1.8.6.zip",
-  "size": 6270188,
-  "notes": "Starfire 1.8.6 (test)\n- Overlay 2.9.11: labels of the game's own text (chapter lists, menus) stick over moving backgrounds until the screen changes."
+  "version": "1.8.7",
+  "file": "Starfire-V1.8.7.zip",
+  "size": 6271632,
+  "notes": "Starfire 1.8.7 (test)\n- Overlay 2.9.12: check boxes no longer read as \"7\"; steadier adventure / event rows; Mode Rewards read properly even when part of it is hidden."
 }
