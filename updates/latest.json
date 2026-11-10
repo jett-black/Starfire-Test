@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
-  "file": "Starfire-V1.9.2.zip",
-  "size": 6279640,
-  "notes": "Starfire 1.9.2 (test)\n- Overlay 2.9.18: bracketed text stays together and keeps its brackets; \u5929\u4e0b\u4f1a\u6b66 is now \"Martial Tournament\"; no gold glow peeking out under labels."
+  "version": "1.9.3",
+  "file": "Starfire-V1.9.3.zip",
+  "size": 6279985,
+  "notes": "Starfire 1.9.3 (test)\n- Overlay 2.9.19: win-streak badges (3\u8fde\u80dc) read reliably as \"3 Win Streak\".\n- From 1.9.2: bracketed text stays together; \u5929\u4e0b\u4f1a\u6b66 is \"Martial Tournament\"; no gold glow under labels."
 }
