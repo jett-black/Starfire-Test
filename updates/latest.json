@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
-  "file": "Starfire-V1.7.2.zip",
-  "size": 3242606,
-  "notes": "Starfire 1.7.2 (test)\n- Borderless windows: the Windows frame is replaced by an animated glowing border that flows around the edge.\n- Drag the header to move; minimize / close buttons in the top-right corner."
+  "version": "1.7.3",
+  "file": "Starfire-V1.7.3.zip",
+  "size": 3244301,
+  "notes": "Starfire 1.7.3 (test)\n- Overlay 2.9: far fewer \"ghost\" labels (random phrases over shadows, road markings or hair where there is no text)."
 }
