@@ -1,6 +1,6 @@
 {
-  "version": "1.9.3",
-  "file": "Starfire-V1.9.3.zip",
-  "size": 6279985,
-  "notes": "Starfire 1.9.3 (test)\n- Overlay 2.9.19: win-streak badges (3\u8fde\u80dc) read reliably as \"3 Win Streak\".\n- From 1.9.2: bracketed text stays together; \u5929\u4e0b\u4f1a\u6b66 is \"Martial Tournament\"; no gold glow under labels."
+  "version": "1.9.4",
+  "file": "Starfire-V1.9.4.zip",
+  "size": 6280380,
+  "notes": "Starfire 1.9.4 (test)\n- Every launcher update brings the overlay up to date too, and a running overlay is restarted as the new version."
 }
