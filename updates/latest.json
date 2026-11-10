@@ -1,0 +1,6 @@
+{
+  "version": "1.6.8",
+  "file": "Starfire-V1.6.8.zip",
+  "size": 1731821,
+  "notes": "Starfire 1.6.8 (test)\n- The launcher calls the overlay just \"Starfire\".\n- The VPN is no longer named; it is still found by itself.\n- New \"VPN section\" checkbox: hides / shows the VPN panel and its LAUNCH ALL parts instantly; remembered until changed by hand; hidden by default when no VPN is found."
+}
