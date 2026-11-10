@@ -1,6 +1,6 @@
 {
-  "version": "1.7.3",
-  "file": "Starfire-V1.7.3.zip",
-  "size": 3244301,
-  "notes": "Starfire 1.7.3 (test)\n- Overlay 2.9: far fewer \"ghost\" labels (random phrases over shadows, road markings or hair where there is no text)."
+  "version": "1.7.5",
+  "file": "Starfire-V1.7.5.zip",
+  "size": 3246140,
+  "notes": "Starfire 1.7.5 (test)\n- Overlay 2.9.2: the season menu's chapter titles (\u7b2c\u4e00\u7ae0 / \u7b2c\u4e8c\u7ae0 / \u7b2c\u4e09\u7ae0) are read when not highlighted."
 }
