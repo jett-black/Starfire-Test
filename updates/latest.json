@@ -1,6 +1,6 @@
 {
-  "version": "1.6.9",
-  "file": "Starfire-V1.6.9.zip",
-  "size": 1731911,
-  "notes": "Starfire 1.6.9 (test)\n- Fixed cut-off text on \"The Hidden Ones companion\" and the \"VPN section\" checkbox."
+  "version": "1.7.0",
+  "file": "Starfire-V1.7.0.zip",
+  "size": 1732839,
+  "notes": "Starfire 1.7.0 (test)\n- New \"Game section\" checkbox: hides / shows the game panel and its LAUNCH ALL box instantly; remembered until changed by hand.\n- With Game and VPN sections both off, LAUNCH ALL becomes LAUNCH STARFIRE (no checkboxes)."
 }
