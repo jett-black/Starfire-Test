@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1",
-  "file": "Starfire-V1.9.1.zip",
-  "size": 6277778,
-  "notes": "Starfire 1.9.1 (test)\n- Overlay 2.9.16: character names, currencies, ranks and numbered season / challenge / event words get labels of their own, with the numbers beside them left visible."
+  "version": "1.9.2",
+  "file": "Starfire-V1.9.2.zip",
+  "size": 6279640,
+  "notes": "Starfire 1.9.2 (test)\n- Overlay 2.9.18: bracketed text stays together and keeps its brackets; \u5929\u4e0b\u4f1a\u6b66 is now \"Martial Tournament\"; no gold glow peeking out under labels."
 }
