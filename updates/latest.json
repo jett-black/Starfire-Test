@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "file": "Starfire-V1.7.0.zip",
-  "size": 1732839,
-  "notes": "Starfire 1.7.0 (test)\n- New \"Game section\" checkbox: hides / shows the game panel and its LAUNCH ALL box instantly; remembered until changed by hand.\n- With Game and VPN sections both off, LAUNCH ALL becomes LAUNCH STARFIRE (no checkboxes)."
+  "version": "1.7.1",
+  "file": "Starfire-V1.7.1.zip",
+  "size": 3239461,
+  "notes": "Starfire 1.7.1 (test)\n- New mini loader \"Starfire Overlay.exe\": checks for updates, then starts only the overlay. If an update is waiting, the launcher opens, installs it and then starts the overlay.\n- New MINI LOADER button: puts a \"Starfire Overlay\" icon on the desktop."
 }
