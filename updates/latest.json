@@ -1,6 +1,6 @@
 {
-  "version": "1.8.2",
-  "file": "Starfire-V1.8.2-r2.zip",
-  "size": 6264790,
-  "notes": "Starfire 1.8.2 (test)\n- The mini loader installs updates itself (progress bar), then starts the overlay.\n- The overlay checks for updates while it runs and has the mini loader install them."
+  "version": "1.8.3",
+  "file": "Starfire-V1.8.3.zip",
+  "size": 6265552,
+  "notes": "Starfire 1.8.3 (test)\n- Sturdier updates: UPDATE re-reads the latest notice first, every request bypasses GitHub's caches, a mismatched download is retried by itself, and slow downloads are no longer cut off."
 }
