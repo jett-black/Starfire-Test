@@ -1,6 +1,6 @@
 {
-  "version": "1.8.5",
-  "file": "Starfire-V1.8.5.zip",
-  "size": 6269014,
-  "notes": "Starfire 1.8.5 (test)\n- Overlay 2.9.10: light-text pass for white text on see-through buttons over busy / moving pictures; \u7b2c1\u8d5b\u5b63 -> Season 1; no Chinese left inside English labels; protection-card terms."
+  "version": "1.8.6",
+  "file": "Starfire-V1.8.6.zip",
+  "size": 6270188,
+  "notes": "Starfire 1.8.6 (test)\n- Overlay 2.9.11: labels of the game's own text (chapter lists, menus) stick over moving backgrounds until the screen changes."
 }
