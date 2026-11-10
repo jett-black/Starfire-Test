@@ -1,6 +1,6 @@
 {
-  "version": "1.7.8",
-  "file": "Starfire-V1.7.8.zip",
-  "size": 3249840,
-  "notes": "Starfire 1.7.8 (test)\n- Only one overlay at a time: starting Starfire closes every other Starfire overlay (other versions, test copies, Project Starfire) and their watchdogs.\n- Includes overlay 2.9.3 changes (separate rank / stage labels)."
+  "version": "1.7.9",
+  "file": "Starfire-V1.7.9.zip",
+  "size": 3250544,
+  "notes": "Starfire 1.7.9 (test)\n- Tray menu: switch the overlay between the game and the desktop (whole screen or a chosen area, any app).\n- Tray menu cleaned up: tick marks show the real settings; unused items removed."
 }
