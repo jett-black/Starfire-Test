@@ -1,6 +1,6 @@
 {
-  "version": "1.8.8",
-  "file": "Starfire-V1.8.8.zip",
-  "size": 6273988,
-  "notes": "Starfire 1.8.8 (test)\n- Overlay 2.9.13: the login screen's legal / anti-addiction notice is shown as one clean, fully translated panel."
+  "version": "1.8.9",
+  "file": "Starfire-V1.8.9.zip",
+  "size": 6275137,
+  "notes": "Starfire 1.8.9 (test)\n- Overlay 2.9.14: labels no longer linger in the old place after a menu slides or scrolls; menu words over soft backgrounds are no longer dropped."
 }
