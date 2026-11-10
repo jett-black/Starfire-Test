@@ -1,6 +1,6 @@
 {
-  "version": "1.8.3",
-  "file": "Starfire-V1.8.3.zip",
-  "size": 6265552,
-  "notes": "Starfire 1.8.3 (test)\n- Sturdier updates: UPDATE re-reads the latest notice first, every request bypasses GitHub's caches, a mismatched download is retried by itself, and slow downloads are no longer cut off."
+  "version": "1.8.4",
+  "file": "Starfire-V1.8.4.zip",
+  "size": 6267092,
+  "notes": "Starfire 1.8.4 (test)\n- Overlay 2.9.8: rows of buttons with icons between them (Lineup Plans, Battle Replays, Sparring Rankings, Mode Rewards ...) are translated again, one label per button."
 }
