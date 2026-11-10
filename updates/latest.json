@@ -1,6 +1,6 @@
 {
-  "version": "1.8.7",
-  "file": "Starfire-V1.8.7.zip",
-  "size": 6271632,
-  "notes": "Starfire 1.8.7 (test)\n- Overlay 2.9.12: check boxes no longer read as \"7\"; steadier adventure / event rows; Mode Rewards read properly even when part of it is hidden."
+  "version": "1.8.8",
+  "file": "Starfire-V1.8.8.zip",
+  "size": 6273988,
+  "notes": "Starfire 1.8.8 (test)\n- Overlay 2.9.13: the login screen's legal / anti-addiction notice is shown as one clean, fully translated panel."
 }
