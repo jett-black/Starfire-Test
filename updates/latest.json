@@ -1,6 +1,6 @@
 {
-  "version": "1.9.4",
-  "file": "Starfire-V1.9.4.zip",
-  "size": 6280380,
-  "notes": "Starfire 1.9.4 (test)\n- Every launcher update brings the overlay up to date too, and a running overlay is restarted as the new version."
+  "version": "1.9.5",
+  "file": "Starfire-V1.9.5.zip",
+  "size": 6280947,
+  "notes": "Starfire 1.9.5 (test)\n- Overlay 2.9.20: fixes the overlay stopping after a while (\"GetHicon ... generic error in GDI+\")."
 }
