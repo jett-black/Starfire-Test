@@ -1,6 +1,6 @@
 {
-  "version": "1.7.5",
-  "file": "Starfire-V1.7.5.zip",
-  "size": 3246140,
-  "notes": "Starfire 1.7.5 (test)\n- Overlay 2.9.2: the season menu's chapter titles (\u7b2c\u4e00\u7ae0 / \u7b2c\u4e8c\u7ae0 / \u7b2c\u4e09\u7ae0) are read when not highlighted."
+  "version": "1.7.6",
+  "file": "Starfire-V1.7.6.zip",
+  "size": 3246590,
+  "notes": "Starfire 1.7.6 (test)\n- Updates install automatically when found (no button needed); the overlay is updated and restarted automatically too.\n- Overlay 2.9.2: the season menu's chapter titles (\u7b2c\u4e00\u7ae0 / \u7b2c\u4e8c\u7ae0 / \u7b2c\u4e09\u7ae0) are read when not highlighted."
 }
