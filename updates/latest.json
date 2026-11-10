@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
-  "file": "Starfire-V1.8.1.zip",
-  "size": 3252498,
-  "notes": "Starfire 1.8.1 (test)\n- Test builds are a separate variant (Starfire Test.exe / Starfire Overlay Test.exe, own settings and overlay install) and never overwrite the normal Starfire. Unzip into its own folder.\n- Overlay watchdog fix."
+  "version": "1.8.2",
+  "file": "Starfire-V1.8.2.zip",
+  "size": 3254470,
+  "notes": "Starfire 1.8.2 (test)\n- The mini loader installs updates itself (progress bar), then starts the overlay.\n- The overlay checks for updates while it runs and has the mini loader install them."
 }
