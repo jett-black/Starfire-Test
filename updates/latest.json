@@ -1,6 +1,6 @@
 {
-  "version": "1.8.4",
-  "file": "Starfire-V1.8.4.zip",
-  "size": 6267092,
-  "notes": "Starfire 1.8.4 (test)\n- Overlay 2.9.8: rows of buttons with icons between them (Lineup Plans, Battle Replays, Sparring Rankings, Mode Rewards ...) are translated again, one label per button."
+  "version": "1.8.5",
+  "file": "Starfire-V1.8.5.zip",
+  "size": 6269014,
+  "notes": "Starfire 1.8.5 (test)\n- Overlay 2.9.10: light-text pass for white text on see-through buttons over busy / moving pictures; \u7b2c1\u8d5b\u5b63 -> Season 1; no Chinese left inside English labels; protection-card terms."
 }
