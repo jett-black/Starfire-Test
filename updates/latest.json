@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "file": "Starfire-V1.9.0.zip",
-  "size": 6275904,
-  "notes": "Starfire 1.9.0 (test)\n- Overlay 2.9.15: no more ghost / doubled labels, and labels no longer linger in the old place after a menu slides or scrolls; menu words over soft backgrounds are no longer dropped."
+  "version": "1.9.1",
+  "file": "Starfire-V1.9.1.zip",
+  "size": 6277778,
+  "notes": "Starfire 1.9.1 (test)\n- Overlay 2.9.16: character names, currencies, ranks and numbered season / challenge / event words get labels of their own, with the numbers beside them left visible."
 }
