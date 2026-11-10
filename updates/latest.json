@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "file": "Starfire-V1.8.0.zip",
-  "size": 3251417,
-  "notes": "Starfire 1.8.0 (test)\n- Updates always replace the .exe you start Starfire with, so it never offers the same update again after restarting.\n- Tray menu: switch the overlay between the game and the desktop; menu cleaned up (from 1.7.9)."
+  "version": "1.8.1",
+  "file": "Starfire-V1.8.1.zip",
+  "size": 3252498,
+  "notes": "Starfire 1.8.1 (test)\n- Test builds are a separate variant (Starfire Test.exe / Starfire Overlay Test.exe, own settings and overlay install) and never overwrite the normal Starfire. Unzip into its own folder.\n- Overlay watchdog fix."
 }
