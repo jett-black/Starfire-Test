@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "file": "Starfire-V1.7.1.zip",
-  "size": 3239461,
-  "notes": "Starfire 1.7.1 (test)\n- New mini loader \"Starfire Overlay.exe\": checks for updates, then starts only the overlay. If an update is waiting, the launcher opens, installs it and then starts the overlay.\n- New MINI LOADER button: puts a \"Starfire Overlay\" icon on the desktop."
+  "version": "1.7.2",
+  "file": "Starfire-V1.7.2.zip",
+  "size": 3242606,
+  "notes": "Starfire 1.7.2 (test)\n- Borderless windows: the Windows frame is replaced by an animated glowing border that flows around the edge.\n- Drag the header to move; minimize / close buttons in the top-right corner."
 }
