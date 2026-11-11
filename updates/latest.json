@@ -1,6 +1,6 @@
 {
-  "version": "1.9.11",
-  "file": "Starfire-V1.9.11.zip",
-  "size": 6285027,
-  "notes": "Starfire 1.9.11 (test)\n- Overlay 2.9.26: labels kept clear of icons/check boxes/badges found in the picture; rank tier needs the 阶 mark; 第N赛季 = Season N."
+  "version": "1.9.12",
+  "file": "Starfire-V1.9.12.zip",
+  "size": 6285493,
+  "notes": "Starfire 1.9.12 (test)\n- Overlay 2.9.27: labels follow gliding / swaying menus at once; faster checks while things move."
 }
