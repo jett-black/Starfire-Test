@@ -1,6 +1,6 @@
 {
-  "version": "1.9.13",
-  "file": "Starfire-V1.9.13.zip",
-  "size": 6286909,
-  "notes": "Starfire 1.9.13 (test)\n- Overlay 2.9.28: 玩法奖励 is always Mode Rewards; icon inside an OCR box no longer covered; more diagnostics in the log."
+  "version": "1.9.14",
+  "file": "Starfire-V1.9.14.zip",
+  "size": 6287740,
+  "notes": "Starfire 1.9.14 (test)\n- Overlay 2.9.29: labels that sat beside their text (Cancel, Doppelganger, Battle Outfit, Martial Tournament) are put on the text."
 }
