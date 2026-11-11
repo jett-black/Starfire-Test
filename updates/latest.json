@@ -1,6 +1,6 @@
 {
-  "version": "1.9.15",
-  "file": "Starfire-V1.9.15.zip",
-  "size": 6288996,
-  "notes": "Starfire 1.9.15 (test)\n- Overlay 2.9.30: top button row labels sit on their words again (extra-pass boxes put on the real text); check box no longer covered."
+  "version": "1.9.16",
+  "file": "Starfire-V1.9.16.zip",
+  "size": 6289800,
+  "notes": "Starfire 1.9.16 (test)\n- Overlay 2.9.31: labels extend left/right over leftover original characters, keep clear of rank pips/icons, junk number fields ignored, slightly faster."
 }
