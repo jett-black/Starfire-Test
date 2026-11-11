@@ -1,6 +1,6 @@
 {
-  "version": "1.9.25",
-  "file": "Starfire-V1.9.25.zip",
-  "size": 6299744,
-  "notes": "Starfire 1.9.25 (test)\n- Overlay 2.9.40: old labels removed faster when the screen changes drastically."
+  "version": "1.9.26",
+  "file": "Starfire-V1.9.26.zip",
+  "size": 6299948,
+  "notes": "Starfire 1.9.26 (test)\n- Overlay 2.9.41: the 1700/1800 rating line is no longer labelled Mountain."
 }
