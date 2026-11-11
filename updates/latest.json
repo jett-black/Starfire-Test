@@ -1,6 +1,6 @@
 {
-  "version": "1.9.18",
-  "file": "Starfire-V1.9.18.zip",
-  "size": 6290916,
-  "notes": "Starfire 1.9.18 (test)\n- Overlay 2.9.33: white-text Room label keeps off the gate icon; Matchmaking flag is Casual, Entertainment is Fun."
+  "version": "1.9.19",
+  "file": "Starfire-V1.9.19.zip",
+  "size": 6292461,
+  "notes": "Starfire 1.9.19 (test)\n- Overlay 2.9.34: faster settling (extra passes every 0.3-0.6 s), no more jumping onto bright walls, no doubled labels, hidden-first-character completion."
 }
