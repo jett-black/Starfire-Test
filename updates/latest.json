@@ -1,6 +1,6 @@
 {
-  "version": "1.9.16",
-  "file": "Starfire-V1.9.16.zip",
-  "size": 6289800,
-  "notes": "Starfire 1.9.16 (test)\n- Overlay 2.9.31: labels extend left/right over leftover original characters, keep clear of rank pips/icons, junk number fields ignored, slightly faster."
+  "version": "1.9.17",
+  "file": "Starfire-V1.9.17.zip",
+  "size": 6290072,
+  "notes": "Starfire 1.9.17 (test)\n- Overlay 2.9.32: Season label covers 第1 and reads Season N; label side extension reaches further."
 }
