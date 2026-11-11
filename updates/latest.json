@@ -1,6 +1,6 @@
 {
-  "version": "1.9.10",
-  "file": "Starfire-V1.9.10.zip",
-  "size": 6283842,
-  "notes": "Starfire 1.9.10 (test)\n- Overlay 2.9.25: established labels over an unchanged picture stay locked through OCR misses."
+  "version": "1.9.11",
+  "file": "Starfire-V1.9.11.zip",
+  "size": 6285027,
+  "notes": "Starfire 1.9.11 (test)\n- Overlay 2.9.26: labels kept clear of icons/check boxes/badges found in the picture; rank tier needs the 阶 mark; 第N赛季 = Season N."
 }
