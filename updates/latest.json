@@ -1,6 +1,6 @@
 {
-  "version": "1.9.12",
-  "file": "Starfire-V1.9.12.zip",
-  "size": 6285493,
-  "notes": "Starfire 1.9.12 (test)\n- Overlay 2.9.27: labels follow gliding / swaying menus at once; faster checks while things move."
+  "version": "1.9.13",
+  "file": "Starfire-V1.9.13.zip",
+  "size": 6286909,
+  "notes": "Starfire 1.9.13 (test)\n- Overlay 2.9.28: 玩法奖励 is always Mode Rewards; icon inside an OCR box no longer covered; more diagnostics in the log."
 }
