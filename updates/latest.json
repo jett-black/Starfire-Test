@@ -1,6 +1,6 @@
 {
-  "version": "1.9.20",
-  "file": "Starfire-V1.9.20.zip",
-  "size": 6293859,
-  "notes": "Starfire 1.9.20 (test)\n- Overlay 2.9.35: Duel Rewards / Leaderboard names, no doubled labels, extra passes no longer move texts, 天 cleaned from the Martial Tournament glass."
+  "version": "1.9.21",
+  "file": "Starfire-V1.9.21.zip",
+  "size": 6295521,
+  "notes": "Starfire 1.9.21 (test)\n- Overlay 2.9.36: labels no longer grow over buttons; Casual only in the sparring menu, Duel Rewards only in the ranked lobby; doubled labels shown once."
 }
