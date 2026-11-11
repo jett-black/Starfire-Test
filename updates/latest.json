@@ -1,6 +1,6 @@
 {
-  "version": "1.9.7",
-  "file": "Starfire-V1.9.7.zip",
-  "size": 6282655,
-  "notes": "Starfire 1.9.7 (test)\n- Overlay 2.9.22: labels no longer laid over icons, check boxes and button edges next to a text.\n- Includes 2.9.21: End key closes the overlay; ranked-screen and glow fixes."
+  "version": "1.9.8",
+  "file": "Starfire-V1.9.8.zip",
+  "size": 6283202,
+  "notes": "Starfire 1.9.8 (test)\n- Overlay 2.9.23: fixes a per-scan error that slowed scanning, and labels shifting from per-scan re-shaping."
 }
