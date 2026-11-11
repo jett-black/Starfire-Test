@@ -1,6 +1,6 @@
 {
-  "version": "1.9.6",
-  "file": "Starfire-V1.9.6.zip",
-  "size": 6282410,
-  "notes": "Starfire 1.9.6 (test)\n- Overlay 2.9.21: End key closes the overlay (Ctrl+Shift+Q still works).\n- Ranked screen: rank pips no longer read as a tier, labels follow moving text faster, \"第N 赛季\" read as one phrase.\n- Label glass covers gold glow next to a label (Martial Tournament)."
+  "version": "1.9.7",
+  "file": "Starfire-V1.9.7.zip",
+  "size": 6282655,
+  "notes": "Starfire 1.9.7 (test)\n- Overlay 2.9.22: labels no longer laid over icons, check boxes and button edges next to a text.\n- Includes 2.9.21: End key closes the overlay; ranked-screen and glow fixes."
 }
