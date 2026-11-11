@@ -1,6 +1,6 @@
 {
-  "version": "1.9.17",
-  "file": "Starfire-V1.9.17.zip",
-  "size": 6290072,
-  "notes": "Starfire 1.9.17 (test)\n- Overlay 2.9.32: Season label covers 第1 and reads Season N; label side extension reaches further."
+  "version": "1.9.18",
+  "file": "Starfire-V1.9.18.zip",
+  "size": 6290916,
+  "notes": "Starfire 1.9.18 (test)\n- Overlay 2.9.33: white-text Room label keeps off the gate icon; Matchmaking flag is Casual, Entertainment is Fun."
 }
