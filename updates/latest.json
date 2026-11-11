@@ -1,6 +1,6 @@
 {
-  "version": "1.9.19",
-  "file": "Starfire-V1.9.19.zip",
-  "size": 6292461,
-  "notes": "Starfire 1.9.19 (test)\n- Overlay 2.9.34: faster settling (extra passes every 0.3-0.6 s), no more jumping onto bright walls, no doubled labels, hidden-first-character completion."
+  "version": "1.9.20",
+  "file": "Starfire-V1.9.20.zip",
+  "size": 6293859,
+  "notes": "Starfire 1.9.20 (test)\n- Overlay 2.9.35: Duel Rewards / Leaderboard names, no doubled labels, extra passes no longer move texts, 天 cleaned from the Martial Tournament glass."
 }
