@@ -1,6 +1,6 @@
 {
-  "version": "1.9.21",
-  "file": "Starfire-V1.9.21.zip",
-  "size": 6295521,
-  "notes": "Starfire 1.9.21 (test)\n- Overlay 2.9.36: labels no longer grow over buttons; Casual only in the sparring menu, Duel Rewards only in the ranked lobby; doubled labels shown once."
+  "version": "1.9.22",
+  "file": "Starfire-V1.9.22.zip",
+  "size": 6297250,
+  "notes": "Starfire 1.9.22 (test)\n- Overlay 2.9.37: much less memory churn (bitmaps reused, buffers released when idle), main-menu create/drop loop ended."
 }
