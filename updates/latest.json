@@ -1,6 +1,6 @@
 {
-  "version": "1.9.23",
-  "file": "Starfire-V1.9.23.zip",
-  "size": 6297964,
-  "notes": "Starfire 1.9.23 (test)\n- Overlay 2.9.38: no stretching over bright backgrounds, rating rows stay plain numbers, Hundred Rivers kept while unchanged."
+  "version": "1.9.24",
+  "file": "Starfire-V1.9.24.zip",
+  "size": 6298936,
+  "notes": "Starfire 1.9.24 (test)\n- Overlay 2.9.39: menus only - new text found faster and followed for 2 s while a menu settles; gameplay unchanged."
 }
