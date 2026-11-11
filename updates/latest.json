@@ -1,6 +1,6 @@
 {
-  "version": "1.9.5",
-  "file": "Starfire-V1.9.5.zip",
-  "size": 6280947,
-  "notes": "Starfire 1.9.5 (test)\n- Overlay 2.9.20: fixes the overlay stopping after a while (\"GetHicon ... generic error in GDI+\")."
+  "version": "1.9.6",
+  "file": "Starfire-V1.9.6.zip",
+  "size": 6282410,
+  "notes": "Starfire 1.9.6 (test)\n- Overlay 2.9.21: End key closes the overlay (Ctrl+Shift+Q still works).\n- Ranked screen: rank pips no longer read as a tier, labels follow moving text faster, \"第N 赛季\" read as one phrase.\n- Label glass covers gold glow next to a label (Martial Tournament)."
 }
