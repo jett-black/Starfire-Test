@@ -1,6 +1,6 @@
 {
-  "version": "1.9.9",
-  "file": "Starfire-V1.9.9.zip",
-  "size": 6283641,
-  "notes": "Starfire 1.9.9 (test)\n- Overlay 2.9.24: the log explains why an established label was dropped or moved (diagnostics)."
+  "version": "1.9.10",
+  "file": "Starfire-V1.9.10.zip",
+  "size": 6283842,
+  "notes": "Starfire 1.9.10 (test)\n- Overlay 2.9.25: established labels over an unchanged picture stay locked through OCR misses."
 }
