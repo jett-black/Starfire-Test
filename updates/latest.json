@@ -1,6 +1,6 @@
 {
-  "version": "1.9.22",
-  "file": "Starfire-V1.9.22.zip",
-  "size": 6297250,
-  "notes": "Starfire 1.9.22 (test)\n- Overlay 2.9.37: much less memory churn (bitmaps reused, buffers released when idle), main-menu create/drop loop ended."
+  "version": "1.9.23",
+  "file": "Starfire-V1.9.23.zip",
+  "size": 6297964,
+  "notes": "Starfire 1.9.23 (test)\n- Overlay 2.9.38: no stretching over bright backgrounds, rating rows stay plain numbers, Hundred Rivers kept while unchanged."
 }
