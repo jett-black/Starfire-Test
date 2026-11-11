@@ -1,6 +1,6 @@
 {
-  "version": "1.9.8",
-  "file": "Starfire-V1.9.8.zip",
-  "size": 6283202,
-  "notes": "Starfire 1.9.8 (test)\n- Overlay 2.9.23: fixes a per-scan error that slowed scanning, and labels shifting from per-scan re-shaping."
+  "version": "1.9.9",
+  "file": "Starfire-V1.9.9.zip",
+  "size": 6283641,
+  "notes": "Starfire 1.9.9 (test)\n- Overlay 2.9.24: the log explains why an established label was dropped or moved (diagnostics)."
 }
