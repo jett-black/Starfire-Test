@@ -1,6 +1,6 @@
 {
-  "version": "1.9.27",
-  "file": "Starfire-V1.9.27.zip",
-  "size": 6305662,
-  "notes": "Starfire 1.9.27 (test)\n- Overlay 2.9.42: subtitle mode for story missions (F8 cycles overlay / subtitles / off).\n- Faster full overlay (fewer slow OCR lookups per scan)."
+  "version": "1.9.28",
+  "file": "Starfire-V1.9.28.zip",
+  "size": 6306559,
+  "notes": "Starfire 1.9.28 (test)\n- Overlay 2.9.43: labels stay on their own text (fixes labels a few hundred pixels off).\n- Faster picture scaling."
 }
