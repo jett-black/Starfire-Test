@@ -1,6 +1,6 @@
 {
-  "version": "1.9.29",
-  "file": "Starfire-V1.9.29.zip",
-  "size": 6307680,
-  "notes": "Starfire 1.9.29 (test)\n- Overlay 2.9.44: labels are only drawn on their text and follow it at once.\n- Display-scaling safety, normal priority, faster updates while menus move."
+  "version": "1.9.30",
+  "file": "Starfire-V1.9.30.zip",
+  "size": 6308330,
+  "notes": "Starfire 1.9.30 (test)\n- Overlay 2.9.45: labels over moving 3D models (lobby list) stay on their text."
 }
